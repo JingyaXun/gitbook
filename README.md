@@ -2,9 +2,9 @@
 
 **GitBook** is a modern static site generator that provides a way to write and share books online. With Gitbook, teams can document everything from products to internal knowledge-bases and APIs.  
 
-While there are currently many available online editors for collaborative documentation, such as Overleaf and Google's Docx2Latex, we choose to use Gitbook because of it offers easier syntax and live-rendering. The most notable advantage aside from that is the flexibility of output formats. You can render to ePub, webpages, PDF etc. While LaTex based editors are relatively fixed to pdf. 
+While there are many available online LaTex based editors for collaborative documentation, such as [Overleaf](www.overleaf.com) and Google's [Docx2Latex](https://gsuite.google.com/marketplace/app/docx2latex/415272416461?pann=cwsdp&hl=en), we choose to use Gitbook because it offers easy version and access control. The most notable advantage aside from that is its flexibility of output formats. You can render to ePub, webpages, [PDF](https://github.com/GitbookIO/gitbook-pdf) etc. In comparison, LaTex based editors are relatively fixed to pdf. 
 
-With Gitbook you can:
+We have summarized Gitbook's distinctive features into the following points. The specific usage of each feature will be elaborated in the sections ahead.
 
 * **Collaborate** **asynchronously** with your team comment and review drafts before publishing.
 * **Version Control** by integrating with Github and creating backup for all the content you create.
@@ -15,7 +15,18 @@ With Gitbook you can:
 
 An bird view of Gitbook internal architecture:
 
-Gitbook builds HTML web pages from static content in the form of raw data, such as markdown, and predefined templates and themes. The HTML pages can then be hosted on a simple HTTP server. 
+Gitbook builds HTML web pages from static content in the form of raw data, such as [markdown](https://en.wikipedia.org/wiki/Markdown), and predefined templates and themes. The HTML pages can then be hosted on a simple HTTP server. 
+
+
+
+
+
+Further readings:
+
+* [Publish Your Book Online with GitBook](https://medium.com/@rebeccapeltz/publish-your-book-online-with-gitbook-fc0ce9b7f12)
+* [GitBook PDF Generator](https://github.com/GitbookIO/gitbook-pdf)
+
+
 
 
 
