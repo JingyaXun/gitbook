@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction to Gitbook](README.md)
+* [Use Cases](use-cases.md)
 
