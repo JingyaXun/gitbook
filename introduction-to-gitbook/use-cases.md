@@ -2,9 +2,9 @@
 
 To insert paragraph, code, equation, image, downloadable file, etc, click on the + mark in between cells. 
 
-![image 1.1](.gitbook/assets/1575403446070.jpg)
+![image 1.1](../.gitbook/assets/1575403446070.jpg)
 
-![image 1.2](.gitbook/assets/1575403374139.jpg)
+![image 1.2](../.gitbook/assets/1575403374139.jpg)
 
 
 
