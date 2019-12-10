@@ -17,11 +17,7 @@ We have summarized Gitbook's distinctive features into the following points. The
 
 Gitbook builds HTML web pages from static content in the form of raw data, such as [markdown](https://en.wikipedia.org/wiki/Markdown), and predefined templates and themes. The HTML pages can then be hosted on a simple HTTP server. 
 
-
-
-
-
-Further readings:
+## Further readings:
 
 * [Publish Your Book Online with GitBook](https://medium.com/@rebeccapeltz/publish-your-book-online-with-gitbook-fc0ce9b7f12)
 * [GitBook PDF Generator](https://github.com/GitbookIO/gitbook-pdf)
