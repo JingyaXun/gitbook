@@ -4,7 +4,7 @@
 
 ## Gitbook V.S. LaTex Based Editors
 
-While there are many available online LaTex based editors for collaborative documentation, such as [Overleaf](https://github.com/JingyaXun/gitbook/tree/137069765cbce8ae0b5f1005b1ac228b6579c3d7/introduction-to-gitbook/www.overleaf.com) and Google's [Docx2Latex](https://gsuite.google.com/marketplace/app/docx2latex/415272416461?pann=cwsdp&hl=en), we choose to use Gitbook because it offers easy version and access control. The most notable advantage aside from that is its flexibility of output formats. You can render to ePub, webpages, [PDF](https://github.com/GitbookIO/gitbook-pdf) etc. In comparison, LaTex based editors are relatively fixed to pdf.
+While there are many available online LaTex based editors for collaborative documentation, such as [Overleaf](https://github.com/JingyaXun/gitbook/tree/137069765cbce8ae0b5f1005b1ac228b6579c3d7/introduction-to-gitbook/www.overleaf.com) and Google's [Docx2Latex](https://gsuite.google.com/marketplace/app/docx2latex/415272416461?pann=cwsdp&hl=en), we choose to use Gitbook because it offers easy version and access control. This is a critical feature  The most notable advantage aside from that is its flexibility of output formats. You can render to ePub, webpages, [PDF](https://github.com/GitbookIO/gitbook-pdf) etc. In comparison, LaTex based editors are relatively fixed to pdf.
 
 We have summarized Gitbook's distinctive features into the following points. 
 

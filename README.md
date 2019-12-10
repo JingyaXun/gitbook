@@ -1,28 +1,20 @@
 # Preface
 
-**GitBook** is a modern static site generator that provides a way to write and share books online. With Gitbook, teams can document everything from products to internal knowledge-bases and APIs.  
+## About This Book
 
-## Gitbook V.S. LaTex Based Editors
+### One structure combining text, code, and rich contents
 
-While there are many available online LaTex based editors for collaborative documentation, such as [Overleaf](www.overleaf.com) and Google's [Docx2Latex](https://gsuite.google.com/marketplace/app/docx2latex/415272416461?pann=cwsdp&hl=en), we choose to use Gitbook because it offers easy version and access control. The most notable advantage aside from that is its flexibility of output formats. You can render to ePub, webpages, [PDF](https://github.com/GitbookIO/gitbook-pdf) etc. In comparison, LaTex based editors are relatively fixed to pdf. 
+We believe the most ideal approach to teach large-scale AI system like MagicsOS is to break it down into well-understood and well-documented texts with the support of equations, graphics, code, and external links. In the creation of such resource, we want to keep the interests of both the writers and the practitioners at heart. 
 
-We have summarized Gitbook's distinctive features into the following points. The specific usage of each feature will be elaborated in the sections ahead.
+On the book development side, mature libraries and frameworks should not only automate common tasks to reduce writers' creation effort, but also adapt to various rich contents to achieve interactive learning. Once created, the book should be accessible both as a physical book,  as executable code, as a downloadable PDF, and as a website. Last but not the least, the structure of the book should support rapid content updates as the field of AI progress, both by the writers of this book and the community at large. 
 
-* **Collaborate** **asynchronously** with your team comment and review drafts before publishing.
-* **Version Control** by integrating with Github and creating backup for all the content you create.
-* **Access control** by creating teams and assigning team members with different roles. 
-* **Get** **shareable** **link** to allow non-Gitbook users to access your contents.
-* **Embed rich contents** such as Youtube video, Github code, articles, etc.
-* **Drop comments** on any section of the book.
+On the user learning side, exemplar, runnable code should make it easy for practitioners to apply and modify common applications to suit their specific needs. Comment section hosted by the web publication should foster interactive user discussions and problem-solvings. 
 
-Gitbook builds HTML web pages from static content in the form of raw data, such as [markdown](https://en.wikipedia.org/wiki/Markdown), and predefined templates and themes. The HTML pages can then be hosted on a simple HTTP server. 
+We eventually settled on Github to share the resources within the team, and Gitbook as not only a medium for mixing text, code, equations, and images, but more importantly also an rendering engine to output various book format and an online forum that carries user discussions. While our system is currently still under development, the overall concept provide a good compromise among the competing concerns.
 
-## Further readings:
+## Content and Structure
 
-* [Publish Your Book Online with GitBook](https://medium.com/@rebeccapeltz/publish-your-book-online-with-gitbook-fc0ce9b7f12)
-* [GitBook PDF Generator](https://github.com/GitbookIO/gitbook-pdf)
+## Target Audience
 
-
-
-
+## Acknowledgments
 
