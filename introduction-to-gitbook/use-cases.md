@@ -1,16 +1,22 @@
+---
+description: >-
+  In this section, we provide demos on the various content formats you can have
+  with Gitbook.
+---
+
 # Use Cases
 
-To insert paragraph, code, equation, image, downloadable file, etc, click on the + mark in between cells.
+**To insert paragraph, code, equation, image, downloadable file, etc, click on the + mark in between cells.**
 
 ![image 1.1](../.gitbook/assets/1575403446070.jpg)
 
 ![image 1.2](../.gitbook/assets/1575403374139.jpg)
 
-To leave a comment, click on the + button to the right of a cell.
+**To leave a comment, click on the + button to the right of a cell.**
 
 ![image 1.3](../.gitbook/assets/1575403644379.jpg)
 
-The following **equations** are written in **markdown**
+**The following equations are written in markdown**
 
 $$
 \begin{align}
@@ -20,7 +26,7 @@ $$
 \end{align}
 $$
 
-You can insert code blocks with tags specifying the file name and where it should be executed.
+**You can insert code blocks with tags specifying the file name and where it should be executed.**
 
 {% tabs %}
 {% tab title="Run in Jupyter Notebook" %}
@@ -63,15 +69,13 @@ class Seq2SeqAttentionDecoder(d2l.Decoder):
 {% endtab %}
 {% endtabs %}
 
-You can upload downloadable file.  
-Click on the cell below to download our sample prediction data.
+**You can upload downloadable file.  
+Click on the cell below to download our sample prediction data.**
 
-{% file src="../.gitbook/assets/predict\_sample\_data.csv" %}
-
-{% file src="../.gitbook/assets/predict\_sample\_data.csv" %}
+{% file src="../.gitbook/assets/predict\_sample\_data.csv" caption="Time Series Prediction Data" %}
 
 {% hint style="info" %}
-Hit: Insert hint here.
+Hit: Insert a hint here.
 {% endhint %}
 
 | col1 | col2 |
@@ -79,7 +83,7 @@ Hit: Insert hint here.
 | 1 | a |
 | 2 | b |
 
-> You can insert a quote here.
+> **You can insert a quote here.**
 >
 > “I do not fear computers. I fear lack of them.”  
 > _— Isaac Asimov_

@@ -1,6 +1,6 @@
 # Bird's Eye View of Gitbook Architecture
 
-GitBook uses a simple directory structure. All Markdown/Asciidoc files listed in the [SUMMARY](https://github.com/JingyaXun/gitbook/blob/master/SUMMARY.md) will be transformed as HTML.
+GitBook uses a simple directory structure. All [Markdown](https://en.wikipedia.org/wiki/Markdown)/[Asciidoc](http://asciidoc.org/) files listed in the [SUMMARY](https://github.com/JingyaXun/gitbook/blob/master/SUMMARY.md) will be transformed as HTML. The HTML pages can then be hosted on any HTTP servers.
 
 A basic GitBook usually looks something like this:
 
