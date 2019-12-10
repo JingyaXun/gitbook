@@ -1,4 +1,4 @@
-# Introduction to Gitbook
+# Preface
 
 **GitBook** is a modern static site generator that provides a way to write and share books online. With Gitbook, teams can document everything from products to internal knowledge-bases and APIs.  
 

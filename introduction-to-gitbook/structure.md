@@ -6,7 +6,6 @@ A basic GitBook usually looks something like this:
 
 ```text
 .
-├── book.json
 ├── README.md
 ├── SUMMARY.md
 ├── chapter-1/
@@ -21,14 +20,11 @@ An overview of what each of these does:
 
 | File | Description |
 | :--- | :--- |
-| `book.json` | Stores [configuration](https://github.com/JingyaXun/gitbook/tree/7ec5efdc012cad36f515bdc156067853e34a907a/config.md) data \(**optional**\) |
 | `README.md` | Preface / Introduction for your book \(**required**\) |
-| `SUMMARY.md` | Table of Contents \(See [Pages](https://github.com/JingyaXun/gitbook/tree/7ec5efdc012cad36f515bdc156067853e34a907a/pages.md)\) \(**optional**\) |
-| `GLOSSARY.md` | Lexicon / List of terms to annotate \(See [Glossary](https://github.com/JingyaXun/gitbook/tree/7ec5efdc012cad36f515bdc156067853e34a907a/lexicon.md)\) \(**optional**\) |
+| `SUMMARY.md` | Table of Contents \(See [Pages](https://github.com/JingyaXun/gitbook/blob/master/SUMMARY.md)\) \(**optional**\) |
+| `something.md` | Book Contents \(**optional**\) |
 
-## Static files and Images
-
-A static file is a file that is not listed in the `SUMMARY.md`. All static files, unless [ignored](structure.md#ignore), are copied to the output.
+A static file is a file that is not listed in the `SUMMARY.md`. All static files, unless ignored, are copied to the output.
 
 ## Ignoring files & folders <a id="ignore"></a>
 
@@ -46,21 +42,12 @@ bin/*
 
 ## Project integration with subdirectory <a id="subdirectory"></a>
 
-For software projects, you can use a subdirectory \(like `docs/`\) to store the book for the project's documentation. You can configure the [`root` option](https://github.com/JingyaXun/gitbook/tree/7ec5efdc012cad36f515bdc156067853e34a907a/config.md) to indicate the folder where GitBook can find the book's files:
+For software projects, you can use a subdirectory \(like `docs/`\) to store the book for the project's documentation. You can configure the [`root` option](https://github.com/JingyaXun/gitbook/blob/master/SUMMARY.md) to indicate the folder where GitBook can find the book's files:
 
 ```text
 .
-├── book.json
 └── docs/
     ├── README.md
     └── SUMMARY.md
-```
-
-With `book.json` containing:
-
-```text
-{
-    "root": "./docs"
-}
 ```
 
