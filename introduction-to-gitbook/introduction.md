@@ -42,18 +42,6 @@ You can generate shareable link to allow non-Gitbook users to access your conten
 
 Unlike traditional LaTex-based editors, Gitbook evolves with the changing styles of modern documentation by provide users with easy ways to embed in their book various forms of contents such as Youtube video, Github code, articles, etc. This allows people to create more interactive contents. 
 
-
-
-  
-  
-  
-
-
-
-
-
-
-
 ## Further Reading
 
 * [Publish Your Book Online with GitBook](https://medium.com/@rebeccapeltz/publish-your-book-online-with-gitbook-fc0ce9b7f12)
