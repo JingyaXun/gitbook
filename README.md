@@ -10,7 +10,7 @@ On the book development side, mature libraries and frameworks should not only au
 
 On the user learning side, exemplar, runnable code should make it easy for practitioners to apply and modify common applications to suit their specific needs. Comment section hosted by the web publication should foster interactive user discussions and problem-solvings. 
 
-We eventually settled on Github to share the resources within the team, and Gitbook as not only a medium for mixing text, code, equations, and images, but more importantly also an rendering engine to output various book format and an online forum that carries user discussions. While our system is currently still under development, the overall concept provide a good compromise among the competing concerns.
+We eventually settled on Github to share the resources within the team, and Gitbook as not only a medium for mixing text, code, equations, and images, but more importantly also an rendering engine to output various book formats and an online forum that carries user discussions. While our system is currently still under development, the overall concept provide a good compromise among the competing concerns.
 
 ## Content and Structure
 
