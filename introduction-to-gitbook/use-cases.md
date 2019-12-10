@@ -10,7 +10,7 @@ To insert paragraph, code, equation, image, downloadable file, etc, click on the
 
 To leave a comment, click on the + button to the right of a cell. 
 
-![image 1.3](.gitbook/assets/1575403644379.jpg)
+![image 1.3](../.gitbook/assets/1575403644379.jpg)
 
 The following **equations** are written in **markdown**
 
@@ -68,9 +68,9 @@ class Seq2SeqAttentionDecoder(d2l.Decoder):
 You can upload downloadable file.  
 Click on the cell below to download our sample prediction data. 
 
-{% file src=".gitbook/assets/predict\_sample\_data.csv" %}
+{% file src="../.gitbook/assets/predict\_sample\_data.csv" %}
 
-{% file src=".gitbook/assets/predict\_sample\_data.csv" %}
+{% file src="../.gitbook/assets/predict\_sample\_data.csv" %}
 
 {% hint style="info" %}
 Hit: Insert hint here. 
